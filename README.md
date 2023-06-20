@@ -8,5 +8,3 @@ VoiceOver is a text to speech web app built on mdbootstrap and VanillaJS which u
 - Pitch level
   - 24 voices to choose from.
   - Stop and Start controls.
-
-
