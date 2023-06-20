@@ -9,4 +9,3 @@ VoiceOver is a text to speech web app built on mdbootstrap and VanillaJS which u
   - 24 voices to choose from.
   - Stop and Start controls.
 
-Try it out here : [VoiceOver](https://nervous-meninsky-35c755.netlify.app)
