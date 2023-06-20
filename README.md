@@ -1,6 +1,6 @@
-# ReLoud
+# VoiceOver
 
-ReLoud is a text to speech web app built on mdbootstrap and VanillaJS which uses Google's WebSpeech API for text to speech conversion in 24 different voices.
+VoiceOver is a text to speech web app built on mdbootstrap and VanillaJS which uses Google's WebSpeech API for text to speech conversion in 24 different voices.
 
 ### Features 
 - Volume level control
@@ -9,4 +9,4 @@ ReLoud is a text to speech web app built on mdbootstrap and VanillaJS which uses
   - 24 voices to choose from.
   - Stop and Start controls.
 
-Try it out here : [ReLoud](https://nervous-meninsky-35c755.netlify.app)
+Try it out here : [VoiceOver](https://nervous-meninsky-35c755.netlify.app)
