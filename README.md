@@ -1,6 +1,7 @@
 # VoiceOver
 
-VoiceOver is a text to speech web app built on mdbootstrap and VanillaJS which uses Google's WebSpeech API for text to speech conversion in 24 different voices.
+Voice-Over is a text to voice web app built on mdbootstrap and VanillaJS which uses Google's WebSpeech
+API for text to speech conversion in 24 different voices.
 
 ### Features 
 - Volume level control
